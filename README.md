@@ -1,2 +1,19 @@
-# spesial_zafi
-Script Untuk Member Setia ZAFI Free Gratis Ongkir 😂
+# INSTALL
+```
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install bs4
+$ pip install requests
+$ pip install cython
+$ rm -rf simple
+```
+# INSTALL REPOS
+```
+$ git clone https://github.com/BOY-H4MZ4H/spesial_zafi
+```
+# RUN
+```
+$ cd $HOME/spesial_zafi
+$ python run.py
+```
