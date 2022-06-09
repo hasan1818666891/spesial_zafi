@@ -6,7 +6,7 @@ $ pkg install git
 $ pip install bs4
 $ pip install requests
 $ pip install cython
-$ rm -rf simple
+$ rm -rf spesial_zafi
 ```
 # INSTALL REPOS
 ```
